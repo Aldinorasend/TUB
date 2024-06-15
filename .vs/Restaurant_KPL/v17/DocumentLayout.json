@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C# Project\\Restaurant_KPL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C480B1-3471-4571-80B4-6E9C1D7DAF81}|MenuManager\\MenuManager.csproj|d:\\c# project\\restaurant_kpl\\menumanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C480B1-3471-4571-80B4-6E9C1D7DAF81}|MenuManager\\MenuManager.csproj|solutionrelative:menumanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C480B1-3471-4571-80B4-6E9C1D7DAF81}|MenuManager\\MenuManager.csproj|d:\\c# project\\restaurant_kpl\\menumanager\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C480B1-3471-4571-80B4-6E9C1D7DAF81}|MenuManager\\MenuManager.csproj|solutionrelative:menumanager\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\C# Project\\Restaurant_KPL\\MenuManager\\MenuManager.cs",
+              "RelativeDocumentMoniker": "MenuManager\\MenuManager.cs",
+              "ToolTip": "D:\\C# Project\\Restaurant_KPL\\MenuManager\\MenuManager.cs",
+              "RelativeToolTip": "MenuManager\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:29:40.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Project\\Restaurant_KPL\\MenuManager\\Program.cs",
+              "RelativeDocumentMoniker": "MenuManager\\Program.cs",
+              "ToolTip": "D:\\C# Project\\Restaurant_KPL\\MenuManager\\Program.cs",
+              "RelativeToolTip": "MenuManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:28:22.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
