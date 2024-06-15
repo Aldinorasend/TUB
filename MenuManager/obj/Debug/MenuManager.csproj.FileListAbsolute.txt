@@ -1,0 +1,2 @@
+D:\C# Project\Restaurant_KPL\MenuManager\obj\Debug\MenuManager.csproj.AssemblyReference.cache
+D:\C# Project\Restaurant_KPL\MenuManager\obj\Debug\MenuManager.csproj.CoreCompileInputs.cache
